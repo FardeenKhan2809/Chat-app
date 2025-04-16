@@ -76,6 +76,6 @@ Start the Client
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+- [@FardeenKhan2809](https://github.com/FardeenKhan2809)
 
   
